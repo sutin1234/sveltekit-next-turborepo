@@ -1,3 +1,5 @@
 <template>
-    <button>Vue Button</button>
+    <div>
+          <button>Vue Button</button>
+    </div>
 </template>

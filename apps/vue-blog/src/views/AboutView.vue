@@ -1,6 +1,5 @@
-
 <script setup lang="ts">
-  import Button from 'ui/vue/Button.vue';
+import Button from "ui/vue/Button.vue";
 </script>
 
 <template>
@@ -9,7 +8,6 @@
     <Button />
   </div>
 </template>
-
 
 <style>
 @media (min-width: 1024px) {

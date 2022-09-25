@@ -197,6 +197,7 @@ importers:
       react: ^18.2.0
       tsconfig: workspace:*
       typescript: ^4.5.2
+      vue: ^3.2.38
     devDependencies:
       '@types/react': 18.0.17
       '@types/react-dom': 18.0.6
@@ -205,6 +206,7 @@ importers:
       react: 18.2.0
       tsconfig: link:../tsconfig
       typescript: 4.8.3
+      vue: 3.2.39
 
 packages:
 
