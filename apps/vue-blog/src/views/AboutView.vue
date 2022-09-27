@@ -1,11 +1,12 @@
-<script setup lang="ts">
-import Button from "ui/vue/Button.vue";
+
+<script lang="ts" setup>
+// import { Button } from "ui/vue";
+
 </script>
 
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-    <Button />
   </div>
 </template>
 

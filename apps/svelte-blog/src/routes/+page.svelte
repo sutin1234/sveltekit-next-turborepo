@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Counter from '$lib/Counter.svelte';
-	import Button from 'ui/svelte/Button.svelte';
+	import { Button } from 'ui/svelte';
 </script>
 
 <svelte:head>
